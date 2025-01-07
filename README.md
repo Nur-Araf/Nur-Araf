@@ -58,3 +58,15 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/nur-araf-shishir-4798a4308/)
 - 📝 [Portfolio](https://portfolio-with-3-d-animations.vercel.app/)
 - 📧 **Email**: cocshishir@gmail.com
+
+###
+
+## 🌱 Currently Learning
+- Advanced **GSAP Animations** for interactive UIs
+- Chrome Extension development with **Plasmo**
+- Scaling full-stack applications with **Next.js** and **Mongoose**
+
+###
+
+## 🌟 Quote I Live By
+*"Strive not to be a success, but rather to be of value." – Albert Einstein*

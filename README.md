@@ -51,3 +51,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+
+## 🌐 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/nur-araf-shishir-4798a4308/)
+- 📝 [Portfolio](https://portfolio-with-3-d-animations.vercel.app/)
+- 📧 **Email**: cocshishir@gmail.com

@@ -82,5 +82,5 @@
 ##
 
 ## Contact Me
-- 📧 Email: [cocshishir@gmail.com]
-- 📞 Phone: [Call me](tel:+8801950372101)
+- **Email:** cocshishir@gmail.com
+- **Phone:** +8801950372101

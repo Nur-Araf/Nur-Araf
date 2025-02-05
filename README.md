@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://i.ibb.co.com/xr6bzxN/Black-and-Red-Simple-Tips-How-To-Be-A-Programmer-Youtube-Thumbnail.png" />
+  <img height="300" src="https://i.ibb.co.com/HpDJHMQq/Black-and-Red-Simple-Tips-How-To-Be-A-Programmer-Youtube-Thumbnail.jpg" />
 </div>
 
 ###

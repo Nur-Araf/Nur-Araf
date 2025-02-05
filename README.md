@@ -78,3 +78,9 @@
 
 ## 🌟 Quote I Live By
 *"Strive not to be a success, but rather to be of value." – Albert Einstein*
+
+##
+
+## Contact Me
+- 📧 Email: [cocshishir@gmail.com]
+- 📞 Phone: [Call me](tel:+8801950372101)

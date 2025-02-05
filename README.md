@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="300" src="https://i.ibb.co.com/xr6bzxN/Black-and-Red-Simple-Tips-How-To-Be-A-Programmer-Youtube-Thumbnail.png"  />
+</div>
+
+###
+
 <h1 align="left">👋 Hi there, I'm Nur Araf Shishir!</h1>
 
 ###
